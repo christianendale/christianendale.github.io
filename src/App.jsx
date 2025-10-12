@@ -13,7 +13,7 @@ function App() {
         </p>
         <div className="social-links">
           <a href="https://github.com/christianendale" target="_blank" rel="noopener noreferrer">GitHub</a>
-          <a href="https://www.linkedin.com/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+          <a href="https://www.linkedin.com/in/christian-endale-966898253/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
           <a href="mailto:christiangirmachew@gmail.com">Email</a>
         </div>
       </main>
