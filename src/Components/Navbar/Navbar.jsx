@@ -10,10 +10,9 @@ const Navbar = () => {
 				<li>Home</li>
 				<li>About Me</li>
 				<li>Projects</li>
-				<li>Contact</li>
 			</ul>
 
-			<div className="navConnect">Connect with Me</div>
+			<div className="navConnect">Contact Me</div>
 		</div>
 	);
 };

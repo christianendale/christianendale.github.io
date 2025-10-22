@@ -12,15 +12,15 @@
 }
 
 .aboutTitle h1 {
-	font-size: 8rem;
-	/* font-weight: 600; */
 	padding: 0px 30px;
+	font-size: 8rem;
+	font-weight: 700;
 }
 
 .aboutTitle img {
 	position: absolute;
 	bottom: 0;
-	margin-left: 0;
+	right: 0;
 	z-index: -1;
 }
 
