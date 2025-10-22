@@ -12,9 +12,7 @@ const Footer = () => {
 						<img src={footerLogo} alt="" />
 						<p>
 							I'm a aspriring this this and that. Lorem ipsum dolor sit amet
-							consectetur adipisicing elit. Nobis natus reiciendis amet! Quod, cumque
-							ex! Animi illo deserunt ratione sequi, enim dolores ex et ullam odit,
-							aliquam doloribus quisquam voluptas.
+							consectetur adipisicing elit.
 						</p>
 					</div>
 					<div className="topRightFooter">
@@ -26,6 +24,13 @@ const Footer = () => {
 					</div>
 				</div>
 				<hr />
+				<div className="footerBottom">
+					<p className="bottomLeftFooter">&copy; Christian Endale. All rights reserved</p>
+					<div className="bottomRightFooter">
+						<p>Term of Services</p>
+						<p>Privacy Policy</p>
+					</div>
+				</div>
 			</div>
 		</div>
 	);

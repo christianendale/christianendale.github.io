@@ -1,0 +1,70 @@
+.footer {
+	margin: 50px 170px;
+	display: flex;
+	flex-direction: column;
+	gap: 30px;
+}
+
+.footerTop {
+	display: flex;
+	justify-content: space-between;
+}
+
+.topLeftFooter p {
+	font-size: 2rem;
+	max-width: 400px;
+}
+
+.topLeftFooter img {
+	height: 50px;
+}
+
+.topRightFooter {
+	display: flex;
+	align-items: center;
+	gap: 40px;
+}
+
+.footerEmail {
+	display: flex;
+	gap: 30px;
+	padding: 20px 30px;
+	border-radius: 30px;
+	background-color: #3b3b3b;
+}
+
+.footerEmail input {
+	outline: none;
+	border: none;
+	background: transparent;
+	color: white;
+	font-size: 1.8rem;
+}
+
+.footerEmail:hover {
+	border: 2px solid white;
+}
+.subscribe {
+	font-size: 2rem;
+	padding: 20px 50px;
+	border-radius: 50px;
+	background: linear-gradient(260deg, #df8908 -5.09%, #b415ff 106.28%);
+	cursor: pointer;
+	transition: 0.3s;
+}
+
+.subscribe:hover {
+	transform: scale(1.05);
+}
+
+.footerBottom {
+	display: flex;
+	justify-content: space-between;
+	font-size: 1.8rem;
+}
+
+.bottomRightFooter {
+	display: flex;
+	gap: 50px;
+	margin-bottom: 50px;
+}
