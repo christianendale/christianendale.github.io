@@ -1,65 +1,63 @@
-.hero{
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-    gap: 40px;
+.hero {
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	gap: 40px;
 }
 
-.hero img{
-    margin-top: 150px;
+.hero img {
+	margin-top: 150px;
 }
 
-.hero h1{
-    text-align: center;
-    width: 70%;
-    font-size: 80px;
+.hero h1 {
+	text-align: center;
+	width: 70%;
+	font-size: 80px;
 }
 
-.hero h1 span{
-    background: linear-gradient(267deg, #DA7C25 0.36%, #B923E1 102.06%);
-    background-clip: text;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+.hero h1 span {
+	background: linear-gradient(267deg, #da7c25 0.36%, #b923e1 102.06%);
+	background-clip: text;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
 }
 
-.hero p{
-    width: 50%;
-    text-align: center;
-    font-size: 24px;
-    line-height: 20pxm;
+.hero p {
+	width: 50%;
+	text-align: center;
+	font-size: 24px;
+	line-height: 20pxm;
 }
 
-.heroAction{
-    display: flex;
-    align-items: center;
-    gap: 25px;
-    font-size: 20px;
-    margin-bottom: 50px;
+.heroAction {
+	display: flex;
+	align-items: center;
+	gap: 25px;
+	font-size: 20px;
+	margin-bottom: 50px;
 }
 
-.heroConnect{
-    padding: 20px 45px;
-    border-radius: 50px;
-    border: 2px solid white;
-    background: linear-gradient(267deg, #DA7C25 0.36%, #B923E1 102.06%);
-    cursor: pointer;
-    transition: 0.2s;
-
+.heroConnect {
+	padding: 20px 45px;
+	border-radius: 50px;
+	border: 2px solid white;
+	background: linear-gradient(267deg, #da7c25 0.36%, #b923e1 102.06%);
+	cursor: pointer;
+	transition: 0.2s;
 }
 
-.heroResume{
-    padding: 20px 45px;
-    border-radius: 50px;
-    border: 2px solid white;
-    cursor: pointer;
-    transition: 0.2s;
-
+.heroResume {
+	padding: 20px 45px;
+	border-radius: 50px;
+	border: 2px solid white;
+	cursor: pointer;
+	transition: 0.2s;
 }
 
-.heroConnect:hover{
-    border-color: #B923E1;
+.heroConnect:hover {
+	border-color: #b923e1;
 }
 
-.heroResume:hover{
-    border-color: #B923E1;
+.heroResume:hover {
+	border-color: #b923e1;
 }

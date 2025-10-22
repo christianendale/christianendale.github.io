@@ -1,16 +1,17 @@
-/* MAKE IT SO THAT 1REM = 10px  */
-/* FIX PRETTIER FORMATTING ON SAVE, TABS, and FORMATTING IN GENERAL */
-
-*{
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
+html {
+	font-size: 62.5%;
 }
 
-body{
-  background-color: #121212;
-  color: white;
-  height: 100vh;
-  scroll-behavior: smooth;
-  /* font-family: ; TODO */
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background-color: #121212;
+	color: white;
+	height: 100vh;
+	scroll-behavior: smooth;
+	/* font-family: ; TODO */
 }

@@ -1,31 +1,29 @@
-.navbar{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    margin: 20px 170px;
-    /* border: 1px solid red; */
-
+.navbar {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	margin: 20px 170px;
+	/* border: 1px solid red; */
 }
-.navMenu{
-    display: flex;
-    align-items: center;
-    list-style: none;
-    gap: 60px;
-    font-size: 20px;
-    /* border: 1px solid red; */
-
+.navMenu {
+	display: flex;
+	align-items: center;
+	list-style: none;
+	gap: 60px;
+	font-size: 20px;
+	/* border: 1px solid red; */
 }
 
-.navConnect{
-    padding: 20px 40px;
-    border-radius: 50px;
-    background: linear-gradient(267deg, #DA7C25 0.36%, #B923E1 102.06%);
-    font-size: 24px;
-    cursor: pointer;
-    transition: 0.2s;
+.navConnect {
+	padding: 20px 40px;
+	border-radius: 50px;
+	background: linear-gradient(267deg, #da7c25 0.36%, #b923e1 102.06%);
+	font-size: 24px;
+	cursor: pointer;
+	transition: 0.2s;
 }
 
-.navConnect:hover{
-    transform: scale(1.05);
-    /* font-size: 1.4rem; */
+.navConnect:hover {
+	transform: scale(1.05);
+	/* font-size: 1.4rem; */
 }
