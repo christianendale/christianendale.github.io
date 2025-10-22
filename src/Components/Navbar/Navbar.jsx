@@ -10,7 +10,6 @@ const Navbar = () => {
 				<li>Home</li>
 				<li>About Me</li>
 				<li>Projects</li>
-				<li>CV</li>
 				<li>Contact</li>
 			</ul>
 
