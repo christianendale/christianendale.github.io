@@ -2,35 +2,35 @@
 
 const projectsData = [
 	{
-		s_no: "01",
-		s_name: "Workout Tracker",
-		s_desc: "Web development is the process of building, programming...",
+		index: "01",
+		name: "Workout Tracker",
+		desc: "Web development is the process of building, programming...",
 	},
 	{
-		s_no: "02",
-		s_name: "Finance Tracker",
-		s_desc: "Web development is the process of building, programming...",
+		index: "02",
+		name: "Finance Tracker",
+		desc: "Web development is the process of building, programming...",
 	},
 	{
-		s_no: "03",
-		s_name: "Algorithm Visualizer",
-		s_desc: "Web development is the process of building, programming...",
+		index: "03",
+		name: "Algorithm Visualizer",
+		desc: "Web development is the process of building, programming...",
 	},
 	{
-		s_no: "04",
-		s_name: "Chess Game",
-		s_desc: "Web development is the process of building, programming...",
+		index: "04",
+		name: "Chess Game",
+		desc: "Web development is the process of building, programming...",
 	},
 	{
-		s_no: "05",
-		s_name: "Conway's Game of Life",
-		s_desc: "Web development is the process of building, programming...",
+		index: "05",
+		name: "Conway's Game of Life",
+		desc: "Web development is the process of building, programming...",
 	},
 	{
-		s_no: "06",
-		s_name: "Game Theory Simulator",
-		s_desc: "Web development is the process of building, programming...",
+		index: "06",
+		name: "Game Theory Simulator",
+		desc: "Web development is the process of building, programming...",
 	},
 ];
 
-export default Services_Data;
+export default projectsData;
