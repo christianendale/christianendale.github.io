@@ -119,3 +119,61 @@
 .contactSubmit:hover {
 	transform: scale(1.05);
 }
+
+@media (max-width: 768px) {
+	.contact {
+		margin: 50px 70px;
+		align-items: start;
+		gap: 50px;
+	}
+
+	.contactTitle h1 {
+		font-size: 5rem;
+		padding: 0;
+		font-weight: 600;
+	}
+
+	.contactTitle img {
+		width: 130px;
+		margin-right: -20px;
+	}
+
+	.contactSection {
+		flex-direction: column;
+	}
+
+	.contactLeft h1 {
+		font-size: 6rem;
+	}
+
+	.contactLeft p {
+		font-size: 1.8rem;
+	}
+
+	.contactDetail {
+		gap: 20px;
+	}
+
+	.contactDetail img {
+		width: 25px;
+	}
+
+	.contactRight label {
+		font-size: 20px;
+	}
+
+	.contactRight input {
+		width: 100%;
+		font-size: 2rem;
+	}
+
+	.contactRight textarea {
+		width: 100%;
+		font-size: 2rem;
+	}
+
+	.contactSubmit {
+		font-size: 2rem;
+		padding: 15px 40px;
+	}
+}
