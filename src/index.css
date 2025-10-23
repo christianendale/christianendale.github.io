@@ -11,7 +11,5 @@ html {
 body {
 	background-color: #121212;
 	color: white;
-	height: 100vh;
-	scroll-behavior: smooth;
 	/* font-family: ; TODO */
 }

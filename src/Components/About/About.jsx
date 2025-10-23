@@ -5,7 +5,7 @@ import profileImg from "../../assets/pfp.jpg";
 
 function About() {
 	return (
-		<div className="about">
+		<div id="about" className="about">
 			<div className="aboutTitle">
 				<h1>About Me</h1>
 				<img src={themePattern} alt="" />

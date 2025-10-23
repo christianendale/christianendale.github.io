@@ -28,10 +28,31 @@
 	/* font-size: 1.4rem; */
 }
 
+.navConnect:hover {
+	transform: scale(1.05);
+}
+
+.navMenu li {
+	display: flex;
+	flex-direction: column;
+	gap: 5px;
+	cursor: pointer;
+}
+
+.navMenu li img {
+	display: flex;
+	margin: auto;
+}
+
 .navbar img {
 	transition: 0.2s;
 }
 
 .navbar img:hover {
 	transform: scale(1.1);
+}
+
+.anchorLink {
+	text-decoration: none;
+	color: white;
 }

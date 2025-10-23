@@ -4,7 +4,7 @@ import profileImg from "../../assets/pfp.jpg";
 
 const Hero = () => {
 	return (
-		<div className="hero">
+		<div id="home" className="hero">
 			<img src={profileImg} width={"300px"} alt="" />
 			<h1>
 				<span>I am Christian Endale</span>
