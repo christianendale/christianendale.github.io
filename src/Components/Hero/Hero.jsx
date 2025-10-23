@@ -9,15 +9,11 @@ const Hero = () => {
 			<h1>
 				<span>I am Christian Endale</span>
 			</h1>
-			<p>
-				Lorem ipsum dolor sit amet, consectetur adipisicing elit. Impedit illum, maiores
-				nihil doloremque iure laborum quae quod molestiae assumenda! At quasi excepturi
-				sequi ullam dolorem odit quae voluptatibus et non.
-			</p>
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Impedit illum, maiores nihil doloremque iure laborum quae quod molestiae assumenda! At quasi excepturi sequi ullam dolorem odit quae voluptatibus et non.</p>
 			<div className="heroAction">
 				<div className="heroConnect">Linkedin</div>
 				<div className="heroResume">My CV</div>
-				<div className="heroResume">Github</div>
+				<div className="heroGithub">Github</div>
 			</div>
 		</div>
 	);
